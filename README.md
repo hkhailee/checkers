@@ -22,9 +22,5 @@ To receive full credit your program must fulfill the requirements above and play
 
 The person(s) with the best playing program (the one which wins most consistently against other programs) will be given some extra credit along with the undying glory of having beat the pants off of the rest of the class, and the winner will also be given something substantial like a taco. Your programs will also be tested against champions from years past just to see where you fit in the eternal scheme of things.  
 
-Submit via Onyx
 
-Submit all required parts via onyx as:
-
-submit tandersen 457 p3
 
